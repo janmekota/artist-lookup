@@ -3,6 +3,8 @@ kind: Component
 metadata:
   name: artist-lookup
   description: Artist Lookup
+  annotations:
+    'jenkins.io/job-full-name': teamA/artistLookup-build
   tags:
   - java
   - data
