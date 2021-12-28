@@ -4,7 +4,7 @@ metadata:
   name: dev-acceptance-tests-e2e-testing-v2
   description: dev-acceptance-tests-e2e-testing-v2
   annotations:
-    'jenkins.io/job-full-name': freestyle
+    'jenkins.io/job-full-name': backstage/dev-acceptance-tests-e2e-testing-v2
   tags:
   - java
   - data
