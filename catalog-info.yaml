@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: dev-acceptance-tests-e2e-testing-v2
-  description: dev-acceptance-tests-e2e-testing-v2
+  name: backstage-multibranch-pipeline
+  description: backstage-multibranch-pipeline
   annotations:
     'jenkins.io/job-full-name': Manual/backstage
   tags:
