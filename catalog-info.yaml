@@ -4,7 +4,7 @@ metadata:
   name: dev-acceptance-tests-e2e-testing-v2
   description: dev-acceptance-tests-e2e-testing-v2
   annotations:
-    'jenkins.io/job-full-name': dev-acceptance-tests-e2e-testing-v2
+    'jenkins.io/job-full-name': Manual/job/janmekota-sandbox
   tags:
   - java
   - data
